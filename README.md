@@ -1,0 +1,1 @@
+JavaScript PONG.  For educational purposes. EasyMode is a file containing the actucal right paddle code, I wanted to make it more difficult.  Also, inside the code I've made the computer a bot, just have to uncomment it => move function to appropriate function.
